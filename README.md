@@ -20,7 +20,7 @@ Table: Dataset files description.
 
 ## Citation
 
-To cite this dataset please cite the paper "Identificando Botnets Geradoras de Ataques DDoS Volumétricos por Processamento de Sianis em Grafos", FERREIRA, Arthur E. G.; NOGUEIRA, Michele. Workshop de Gerência e Operação de Redes e Serviços (WGRS_SBRC), [S.l.], v. 23, may 2018. ISSN 2595-2722.
+To cite this dataset please cite the paper "Identificando Botnets Geradoras de Ataques DDoS Volumétricos por Processamento de Sinais em Grafos", FERREIRA, Arthur E. G.; NOGUEIRA, Michele. Workshop de Gerência e Operação de Redes e Serviços (WGRS_SBRC), [S.l.], v. 23, may 2018. ISSN 2595-2722.
 
 ## Authors
 * Arthur E. Garcete Ferreira - UFPR [<arthurgarcete@gmail.com>]
