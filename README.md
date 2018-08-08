@@ -5,7 +5,7 @@ This dataset consists in approximatedly 2.5 hours of network capture in NetFlow 
 ![Infrastructure](SLS.png "Structure of the Dataset")
 
 
- The victim host had a 50MB/s link and did not hosted any service. The table below details the files that compose this dataset.
+ The victim host IP address is **"<span style="color:red">8.173.37.51</span>"**, it had a 50MB/s link and did not hosted any service. The table below details the files that compose this dataset.
 
 |      File       | Size |        Description            | Download | md5
 |:---|:---|:---|:---|:---|
