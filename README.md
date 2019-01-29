@@ -23,6 +23,6 @@ To cite this dataset please cite the paper "Identificando Botnets Geradoras de A
 
 ## Authors
 * Arthur E. Garcete Ferreira - UFPR [<arthurgarcete@gmail.com>]
-* Michele Nogueira Lima - UFPR [<michele@ufpr.br>]
+* Michele Nogueira Lima - UFPR [<michele.nogueira@ufpr.br>]
 
 **Special Thanks** to Mr. Alexandre C. Carvalho (Specialist Linux Solutions) [<alexandre@specialist.srv.br>] for providing the NetFlow capture composing this _dataset_ and authorizing its publication.
